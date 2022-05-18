@@ -52,8 +52,8 @@ L'atac dura 16.219218 segons, com es pot veure a l'últim paquet:
 
 ![""](images/image04.png "")
 
-4. Quin és el sistema operatiu del sistema atacat? Pots consultar la relació entre la versió i el
-nom comercial aquí: https://www.gaijin.at/en/infos/windows-version-numbers
+4. **Quin és el sistema operatiu del sistema atacat? Pots consultar la relació entre la versió i el
+nom comercial aquí: https://www.gaijin.at/en/infos/windows-version-numbers**
 
 ```
 smb.native_os && ip.src == 192.150.11.111
